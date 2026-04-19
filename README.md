@@ -30,6 +30,15 @@
 
 ---
 
+### 🧠 [Smart EEG Wheelchair](https://github.com/Raafat5566/EEG_Wheelchair)
+> **Bachelor Graduation Project** — An assistive smart wheelchair prototype controlled through EEG mental commands using Emotiv Insight, Python Cortex API integration, and an Arduino motor controller. The system maps trained brain signals to real-time wheelchair motion commands, enabling hands-free mobility for users with limited motor capability.
+>
+> 🏆 **1st Place** out of 150 competing graduation projects · Qualified for **IEEE Competition** · Received a **Grand Award**
+>
+> **Stack:** C++ · Python · Arduino · Emotiv Insight · Cortex API · Node-RED
+
+---
+
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shattat-55abc545b7a287)
