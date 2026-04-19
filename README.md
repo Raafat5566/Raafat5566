@@ -21,6 +21,14 @@
 
 ## 🚀 Featured Projects
 
+### 📉 [Data Imbalance Regression](https://github.com/Raafat5566/data-imbalance-regression)
+
+> A Python package and research project addressing data imbalance challenges in regression tasks. Implements and benchmarks multiple resampling and weighting strategies to improve model performance on skewed continuous target distributions.
+>
+> **Stack:** Python · scikit-learn · pandas · NumPy · Jupyter Notebook
+
+---
+
 ### 🔐 [Secure OPC UA + SMB File Transfer Pipeline](https://github.com/Raafat5566/secure-opcua-SMB-file-transfer)
 
 > Industrial-grade secure file transfer using OPC UA (Basic256Sha256, SignAndEncrypt) combined with an automated SMB mover service. Validates, transfers, and verifies files into restricted network shares.
