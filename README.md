@@ -39,6 +39,13 @@
 
 ---
 
+### 🖼️ [Image Processing OOP](https://github.com/Raafat5566/image-processing-oop-main)
+> An object-oriented digit image classification pipeline built with TensorFlow/Keras. Covers the full ML workflow — data loading, preprocessing, CNN model training, evaluation, prediction, and unit testing — all structured in a clean, modular OOP architecture.
+>
+> **Stack:** Python · TensorFlow · Keras · Jupyter Notebook · OOP Design
+
+---
+
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shattat-55abc545b7a287)
