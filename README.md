@@ -1,4 +1,4 @@
-# Hi, I'm Raafat — Automation & AI Engineer 👋
+# Hi, I'm Mohamed Shattat — Automation & AI Engineer 👋
 
 🔭 I build intelligent systems at the intersection of **industrial automation**, **secure communication**, and **AI**.
 📍 Based in Köln, Germany | Open to opportunities in DACH & Europe
