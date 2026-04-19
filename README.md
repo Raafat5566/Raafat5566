@@ -46,6 +46,15 @@
 
 ---
 
+### 📊 [PCA vs Original Feature Regression](https://github.com/Raafat5566/ddmo-pca-project)
+> A publication-ready machine learning project comparing OLS regression on transformed original features against PCA-based OLS regression. Built with a modular Python package architecture — preprocessing, diagnostics, modeling, and visualization are fully separated into reusable components, while the notebook serves as the analytical narrative.
+>
+> **Highlights:** KNN imputation pipeline · KMO adequacy diagnostics · PCA feature ranking via spotpython · Side-by-side R², Adj. R², AIC & BIC comparison
+>
+> **Stack:** Python · scikit-learn · statsmodels · factor_analyzer · spotpython · Jupyter Notebook
+
+---
+
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shattat-55abc545b7a287)
