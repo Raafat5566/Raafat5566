@@ -8,7 +8,7 @@
 
 ## 🛠️ What I Work With
 
-**Languages:** Python · C/C++ · Bash
+**Languages:** Python · C/C++ ·n8n. Tia portal . Bash
 **Industrial Protocols:** OPC UA · SMB · Modbus · MQTT
 **AI/ML:** Machine Learning pipelines · Data processing · Model integration
 **Tools & Platforms:** Linux · Docker · Git
@@ -24,9 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Raafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raafat5566&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
