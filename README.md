@@ -24,6 +24,9 @@
 
 ---
 
+### 🏭 [Discrete Event Control Case Study](https://github.com/Raafat5566/discrete-event-control-case-study)
+> A TIA Portal case study implementing Discrete Event Control architecture for Siemens SIMATIC PLCs using SCL-based function blocks. Covers operating modes, interlocks, force states, alarms, and simulation blocks with full technical documentation.
+> **Stack:** TIA Portal · SCL · Siemens SIMATIC · Discrete Event Control
 
 ---
 
