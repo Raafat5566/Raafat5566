@@ -1,17 +1,20 @@
 # Hi, I'm Mohamed Shattat — Automation & AI Engineer 👋
 
 🔭 I build intelligent systems at the intersection of **industrial automation**, **secure communication**, and **AI**.
-📍 Based in Köln, Germany | Open to opportunities in DACH & Europe
+🎓 M.Sc. Automation & IT @ **TH Köln** — graduating end of 2026
+📍 Based in Köln, Germany | Open to opportunities & internships across DACH
+🗣️ Languages: **German (B2)** · **English (C1)** · **Arabic (native)**
 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shattat-55abc545b7a287)
 
 ---
 
 ## 🛠️ What I Work With
 
-**Languages:** Python · C/C++ · n8n · TIA Portal · Bash
+**Programming:** Python · C/C++ · Bash · SQL
+**Industrial Automation:** TIA Portal · SCL · Siemens SIMATIC · Node-RED · n8n
 **Industrial Protocols:** OPC UA · SMB · Modbus · MQTT
-**AI/ML:** Machine Learning pipelines · Data processing · Model integration
-**Tools & Platforms:** Linux · Docker · Git
+**AI / ML:** TensorFlow · Keras · scikit-learn · Neural-network forecasting · Data pipelines
+**Tools & Platforms:** Linux · Docker · Git · Jupyter
 **Security:** Certificate-based auth · Encrypted communication · Secure file transfer
 
 ---
@@ -76,3 +79,5 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shattat-55abc545b7a287)
 - 🐙 [GitHub](https://github.com/Raafat5566)
+
+_Open to **Werkstudent, internship, thesis, and full-time** roles in Automation, Industrial AI, and Secure Industrial Communication across the DACH region._
