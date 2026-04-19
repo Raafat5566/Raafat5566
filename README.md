@@ -8,7 +8,7 @@
 
 ## 🛠️ What I Work With
 
-**Languages:** Python · C/C++ ·n8n. Tia portal . Bash
+**Languages:** Python · C/C++ · n8n . Tia portal . Bash
 **Industrial Protocols:** OPC UA · SMB · Modbus · MQTT
 **AI/ML:** Machine Learning pipelines · Data processing · Model integration
 **Tools & Platforms:** Linux · Docker · Git
