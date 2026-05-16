@@ -37,6 +37,14 @@
 
 ---
 
+### 🏭 [IIoT Edge Monitoring and Alerting Platform](https://github.com/Raafat5566/iiot-edge-monitoring-platform)
+
+> An end-to-end Industrial IoT case study simulating factory machines that ingest sensor data via OPC UA and MQTT, store it in SQLite, and visualize operations in Node-RED dashboards with real-time threshold alerting, automatic source failover logic, and CSV export workflows.
+>
+> **Stack:** Python · OPC UA · MQTT · Node-RED · SQLite · Node-RED Dashboard
+
+---
+
 ### 🏭 [Discrete Event Control Case Study](https://github.com/Raafat5566/discrete-event-control-case-study)
 
 > A TIA Portal case study implementing Discrete Event Control architecture for Siemens SIMATIC PLCs using SCL-based function blocks. Covers operating modes, interlocks, force states, alarms, and simulation blocks with full technical documentation.
